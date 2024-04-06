@@ -23,7 +23,7 @@ const Home = () => {
             <div id="main">
                 <h1>Welcome to Jaymart!</h1>
 
-                <p>Established in 2024, Jaymart is an online retailer specializing in a wide variety of products, from electronics to clothes to jewelry to home decoration to auto parts to lighting. All of our products are selected to be the very best, and have earned at least 4-star average ratings on our website.
+                <p>Established in 2024, Jaymart is an online retailer specializing in a wide variety of products, from electronics to clothes to jewelry to home decoration to auto parts to lighting. All of our products are selected to be the very best, and have earned at least 4-star average ratings on our website. Our collection currently comprises 100 products.
                 </p>
 
                 <p>Jaymart serves 170 countries and territories throughout the world, and offers free shipping throughout the United States and its territories. We are headquartered in Santa Clarita, California in the United States. As of April 5, 2024, Jaymart already has over 100,000 subscribed users.</p>
